@@ -1,0 +1,16 @@
+C:\Users\icway\source\repos\Computer Vision GUI\bin\Debug\net8.0-windows\Computer Vision GUI.exe
+C:\Users\icway\source\repos\Computer Vision GUI\bin\Debug\net8.0-windows\Computer Vision GUI.deps.json
+C:\Users\icway\source\repos\Computer Vision GUI\bin\Debug\net8.0-windows\Computer Vision GUI.runtimeconfig.json
+C:\Users\icway\source\repos\Computer Vision GUI\bin\Debug\net8.0-windows\Computer Vision GUI.dll
+C:\Users\icway\source\repos\Computer Vision GUI\bin\Debug\net8.0-windows\Computer Vision GUI.pdb
+C:\Users\icway\source\repos\Computer Vision GUI\obj\Debug\net8.0-windows\Computer_Vision_GUI.Form1.resources
+C:\Users\icway\source\repos\Computer Vision GUI\obj\Debug\net8.0-windows\Computer Vision GUI.csproj.GenerateResource.cache
+C:\Users\icway\source\repos\Computer Vision GUI\obj\Debug\net8.0-windows\Computer Vision GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icway\source\repos\Computer Vision GUI\obj\Debug\net8.0-windows\Computer Vision GUI.AssemblyInfoInputs.cache
+C:\Users\icway\source\repos\Computer Vision GUI\obj\Debug\net8.0-windows\Computer Vision GUI.AssemblyInfo.cs
+C:\Users\icway\source\repos\Computer Vision GUI\obj\Debug\net8.0-windows\Computer Vision GUI.csproj.CoreCompileInputs.cache
+C:\Users\icway\source\repos\Computer Vision GUI\obj\Debug\net8.0-windows\Computer Vision GUI.dll
+C:\Users\icway\source\repos\Computer Vision GUI\obj\Debug\net8.0-windows\refint\Computer Vision GUI.dll
+C:\Users\icway\source\repos\Computer Vision GUI\obj\Debug\net8.0-windows\Computer Vision GUI.pdb
+C:\Users\icway\source\repos\Computer Vision GUI\obj\Debug\net8.0-windows\Computer Vision GUI.genruntimeconfig.cache
+C:\Users\icway\source\repos\Computer Vision GUI\obj\Debug\net8.0-windows\ref\Computer Vision GUI.dll
